@@ -1,4 +1,4 @@
-# CodeSignedMiners
+# CodeSigned Miners (XMRig Monero Miner)
 
 XMRing miner, compiled as-is & codesigned with real certification.
 
